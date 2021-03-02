@@ -6,7 +6,7 @@ import data from '../../fakeData/fakeData.json'
 const Body = () => {
 
     const [players, setPlayers] = useState([]);
-    useEffect(()=>{
+    useEffect(() => {
         setPlayers(data);
     }, [])
 
@@ -14,8 +14,15 @@ const Body = () => {
 
 
     const handleHireBtn = (player) => {
-        const newCart = [...cart,player];
-        setCart(newCart);
+        if (cart.indexOf(player) === -1) {
+            const newCart = [...cart, player];
+            setCart(newCart);
+        }
+        else
+        {
+            alert("Already Added!");
+        }
+
     }
 
     return (
@@ -23,7 +30,7 @@ const Body = () => {
             <div className="row">
                 <div className="player-info-container col-lg-8 row m-0">
                     {
-                        players.map(player=> <Player player={player} handleHireBtn={handleHireBtn} key={player.name}></Player>)
+                        players.map(player => <Player player={player} handleHireBtn={handleHireBtn} key={player.name}></Player>)
                     }
                 </div>
                 <div className="cart-container col-lg-4">
