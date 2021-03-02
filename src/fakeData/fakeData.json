@@ -1,0 +1,76 @@
+[{
+    "name": "Mashrafe Mortaza",
+    "role": "Bowler",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/391.png",
+    "salary": 150
+  }, {
+    "name": "Abu Jayed",
+    "role": "Bowler",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/3715.png",
+    "salary": 80
+  }, {
+    "name": "Mahmudullah",
+    "role": "All-rounder",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/492.png",
+    "salary": 130
+  }, {
+    "name": "Liton Das",
+    "role": "Wicket-keeper",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1596.png",
+    "salary": 90
+  }, {
+    "name": "Mehidy Hasan",
+    "role": "All-rounder",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1597.png",
+    "salary": 90
+  }, {
+    "name": "Mohammad Mithun",
+    "role": "Batter",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1733.png",
+    "salary": 80
+  }, {
+    "name": "Mohammad Saifuddin",
+    "role": "All-rounder",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/2915.png",
+    "salary": 80
+  }, {
+    "name": "Mosaddek Hossain",
+    "role": "Batter",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1588.png",
+    "salary": 90
+  }, {
+    "name": "Mushfiqur Rahim",
+    "role": "Wicket-keeper",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/491.png",
+    "salary": 170
+  }, {
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1594.png",
+    "salary": 150
+  }, {
+    "name": "Rubel Hossain",
+    "role": "Bowler",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1135.png",
+    "salary": 100
+  }, {
+    "name": "Sabbir Rahman",
+    "role": "Batter",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1734.png",
+    "salary":200
+  }, {
+    "name": "Shakib Al Hasan",
+    "role": "All-rounder",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/201.png",
+    "salary": 150
+  }, {
+    "name": "Soumya Sarkar",
+    "role": "Batter",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1919.png",
+    "salary": 120
+  }, {
+    "name": "Tamim Iqbal",
+    "role": "Batter",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/287.png",
+    "salary": 180
+  }]
